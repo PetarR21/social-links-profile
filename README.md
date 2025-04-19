@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/PetarR21/blog-preview-card](https://github.com/PetarR21/blog-preview-card)
-- Live Site URL: [https://petarr21.github.io/blog-preview-card/](https://petarr21.github.io/blog-preview-card/)
+- Solution URL: [https://github.com/PetarR21/social-links-profile](https://github.com/PetarR21/social-links-profile)
+- Live Site URL: [https://petarr21.github.io/social-links-profile/](https://petarr21.github.io/social-links-profile/)
 
 ## My process
 
